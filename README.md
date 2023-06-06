@@ -17,7 +17,7 @@ C:\Users\isaia\lab13\crud-pessoa\crud-pessoa>ng serve
 
 Rodar o json-server
 - no terminal (prompt, shell), entrar no diretorio do projeto e inserir o comando: 
-- $ ng json-server --no-cors --watch ./db.json
+- $ ng json-server --no-cors --watch ./db.json (vai rodar em localhost:3000)
 
 exemplo:
 C:\Users\isaia\lab13\crud-pessoa\server>json-server --no-cors --watch ./db.json
