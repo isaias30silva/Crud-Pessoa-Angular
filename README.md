@@ -1,4 +1,5 @@
-Baixar e instalar o Node: nodejs.org/en/download
+Baixar e instalar o Node: 
+- nodejs.org/en/download
 
 Instalar o TypeScript e o AngularCLI
 - $ npm install -g @angular/cli
